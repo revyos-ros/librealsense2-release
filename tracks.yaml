@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/librealsense2-release.git
 tracks:
   dashing:
     actions:
